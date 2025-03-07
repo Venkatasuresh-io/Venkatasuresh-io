@@ -1,6 +1,6 @@
 ### Hi there, I'm [A. Venkata Suresh](https://github.com/Venkatasuresh-io) 👋  
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity, and PhD Tips) and contributing to open source.  
+I completed learning Python, Java, Dsa and learned basic concepts ML 
 
 **My Research Interest**:  
 - Outlying Aspect Mining  
@@ -19,7 +19,8 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 
 #### Languages:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Dsa]
   
 
 #### ML/DL  
