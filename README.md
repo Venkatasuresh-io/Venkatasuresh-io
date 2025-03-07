@@ -1,6 +1,6 @@
 ### Hi there, I'm [A. Venkata Suresh](https://github.com/Venkatasuresh-io) 👋  
 
-I completed learning Python, Java, Dsa and learned basic concepts ML 
+I completed learning Python, Java, Dsa and basic concepts in ML 
 
 **My Research Interest**:  
 - Outlying Aspect Mining  
